@@ -16,6 +16,7 @@ body {
 div#container {
 	background-color: #7c7777;
 	padding: 10px;
+	padding-top: 30px;
 	border: 2px solid black;
 	float: left;
 	text-align: left;
