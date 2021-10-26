@@ -22,7 +22,6 @@ div {
 div#container {
 	background-color: #7c7777;
 	border: 2px solid black;
-	float: left;
 	position: relative;
     margin: 10px;
     height: 300px;
