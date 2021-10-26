@@ -25,8 +25,6 @@ div#container {
 	position: relative;
     margin: 10px;
     height: 300px;
-    margin-top:  0px;
-    margin-right: 0px;
 }
 /* color boxes inside grey box with menu items*/
 p {
@@ -36,6 +34,9 @@ float: top;
 float: right;
 border: 2px solid black;
 font-size: 20px;
+position: relative;
+top: 0px;
+right:0px;
 }
 #p1 {
 	background-color: #bd8787;
