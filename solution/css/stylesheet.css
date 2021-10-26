@@ -32,18 +32,16 @@ float: top;
 float: right;
 border: 2px solid black;
 font-size: 20px;
+margin-bottom: 15px;
 }
 #p1 {
 	background-color: #bd8787;
-	position: relative;	
 }
 #p2 {
 	background-color: #f3332a;
-	position: relative;
 }
 #p3 {
 	background-color: #e5e482;
-	position: relative;
 }
 /*
 @media (min-width: 992px) {
