@@ -13,6 +13,11 @@ body {
 	background-color: white;
 }
 /* grey box with content */
+
+div {
+	padding: 10px;
+    text-align: left, border-box;
+    }
 div#container {
 	background-color: #7c7777;
 	border: 2px solid black;
@@ -21,10 +26,6 @@ div#container {
     margin: 10px;
     height: 300px;
 }
-div {
-	padding: 10px;
-    text-align: left;
-    }
 /* color boxes inside grey box with menu items*/
 p {
 text-align: center; 
