@@ -28,21 +28,22 @@ div#container {
 p {
 text-align: center; 
 padding: 3px; 
-border-top: 0px;
-border-right: 0px; 
 float: top;
 float: right;
 border: 2px solid black;
 font-size: 20px;
 }
 #p1 {
-	background-color: #bd8787;	
+	background-color: #bd8787;
+	position: relative;	
 }
 #p2 {
 	background-color: #f3332a;
+	position: relative;
 }
 #p3 {
 	background-color: #e5e482;
+	position: relative;
 }
 /*
 @media (min-width: 992px) {
