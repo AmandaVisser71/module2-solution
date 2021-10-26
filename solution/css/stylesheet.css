@@ -1,6 +1,43 @@
 * {
 	box-sizing: border-box;
 }
+body {
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+p {
+	background-color: gray;
+	padding: 5px;
+	border: 2px solid black;
+	float: left;
+	text-align: left;
+    margin-top: 30px;
+}
+#box {
+text-align: center; 
+padding: 3px; 
+float: top;
+float: right;
+position: relative;
+border: 2px solid black;
+font-size: 20px
+margin: 5px;
+}
+#p1 {
+	background-color: pink;	
+}
+#p2 {
+	background-color: red;
+}
+#p3 {
+	background-color: yellow;
+}
+
+h1 {
+	position: center;
+    margin-bottom: 30px;
+}
 @media (min-width: 992px) {
       .col-lg-1, .col-lg-2, .col-lg-3
       {float: left;
@@ -16,9 +53,9 @@
         width: 66.66%;
       }
       .col-lg-3 {
-        with: 100%;
+        width: 100%;
       }}
-@media (min-width: 768px)and(max-width: 991px) {
+@media (min-width: 768px) and (max-width: 991px) {
       .col-md-1, .col-md-2, .col-md-3
       {float: left;
       }
@@ -29,7 +66,7 @@
         width: 100%;
       }
       .col-md-3 {
-        with: 100%;
+        width: 100%;
       }}
 @media (max-width: 767px) {
       .col-xs-1, .col-xs-2, .col-xs-3
@@ -42,29 +79,6 @@
         width: 100%;
       }
       .col-xs-3 {
-        with: 100%;
+        width: 100%;
       }}
-.row {
-margin-bottom: 15px;
-}
-p {text-align: center; 
-padding: 3px; 
-float: top;
-float: right;
-position: relative;
-}
-
-#p1 {
-	background-color: pink;
-	}
-#p2 {
-	background-color: maroon;
-	}
-#p3 {
-	background-color: yellow;
-	}
-h1 {
-	position: center;
-    margin-bottom: 30px;
-}
 
