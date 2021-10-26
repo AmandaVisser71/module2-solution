@@ -17,11 +17,14 @@ div#container {
 	background-color: #7c7777;
 	border: 2px solid black;
 	float: left;
-	text-align: left;
 	position: relative;
     margin: 10px;
     height: 300px;
 }
+div {
+	padding: 10px;
+    text-align: left;
+    }
 /* color boxes inside grey box with menu items*/
 p {
 text-align: center; 
