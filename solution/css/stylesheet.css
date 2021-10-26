@@ -17,6 +17,7 @@ body {
 div {
 	padding: 10px;
     text-align: left;
+    text-align: bottom;
     }
 div#container {
 	background-color: #7c7777;
