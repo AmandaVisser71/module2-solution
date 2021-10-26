@@ -18,7 +18,7 @@ div#container {
 	border: 2px solid black;
 	float: left;
 	text-align: left;
-	text-align: bottom;
+	padding: 10px;
 	position: relative;
     margin: 10px;
     height: 300px;
