@@ -16,7 +16,7 @@ body {
 
 div {
 	padding: 10px;
-    text-align: left, border-box;
+    text-align: left;
     }
 div#container {
 	background-color: #7c7777;
@@ -25,6 +25,8 @@ div#container {
 	position: relative;
     margin: 10px;
     height: 300px;
+    margin-top:  0px;
+    margin-right: 0px;
 }
 /* color boxes inside grey box with menu items*/
 p {
