@@ -24,7 +24,9 @@ div#container {
 	background-color: #7c7777;
 	border: 2px solid black;
 	position: relative;
-    margin: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
     height: 200px;
 }
 /* color boxes inside grey box with menu items*/
