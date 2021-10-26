@@ -1,7 +1,5 @@
 * {
 	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
 }
 h1 {
 	text-align: center;
@@ -164,7 +162,7 @@ top: 0px;
   .col-xs-6 {
     width: 50%;
   }
-  .col-mxs-7 {
+  .col-xs-7 {
     width: 58.33%;
   }
   .col-xs-8 {
