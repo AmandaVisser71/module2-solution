@@ -34,6 +34,9 @@ float: top;
 float: right;
 border: 2px solid black;
 font-size: 20px;
+position: absolute;
+right: 0px;
+top: 0px;
 }
 #p1 {
 	background-color: #bd8787;
