@@ -17,8 +17,8 @@ body {
 div {
 	padding: 10px;
     text-align: left;
-    text-align: bottom;
-    }
+    text-overflow: right;
+ }
 div#container {
 	background-color: #7c7777;
 	border: 2px solid black;
